@@ -30,5 +30,7 @@ HTML,CSS,JavaScript, Bootstrap
 - To make the website responsive
 - Enhance the interactivity with more JavaScript features
 
+## Authors
 
+- [@VineshRajkumar](https://github.com/VineshRajkumar)
 
